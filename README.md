@@ -8,10 +8,10 @@ All info about this router
 # Inside
 
 CPU
-RTL8192ER
+RTL8676S
 
 WIFI
-RTL8676S
+RTL8192ER
 
 SPI
 Winbond 25Q64JVSIQ
