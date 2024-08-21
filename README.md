@@ -16,3 +16,6 @@ RTL8192ER
 SPI
 Winbond 25Q64JVSIQ
 
+# Should work?
+Flash dump from DSL-2750U/RA
+Almost identical copy
